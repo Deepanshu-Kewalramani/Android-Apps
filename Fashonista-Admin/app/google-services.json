@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "673283380996",
+    "firebase_url": "https://jyoti-textile.firebaseio.com",
+    "project_id": "jyoti-textile",
+    "storage_bucket": "jyoti-textile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673283380996:android:868aeeabfa6a27f1a46251",
+        "android_client_info": {
+          "package_name": "com.example.fashonista"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673283380996-40ri87eaa6uk0itm898khaj2meeunl2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfxkUSgyiRPkrRgrx7H-uZ8Ud5GymOP88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673283380996-40ri87eaa6uk0itm898khaj2meeunl2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673283380996:android:82b2f15892896a14a46251",
+        "android_client_info": {
+          "package_name": "com.example.fashonistaadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673283380996-40ri87eaa6uk0itm898khaj2meeunl2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfxkUSgyiRPkrRgrx7H-uZ8Ud5GymOP88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673283380996-40ri87eaa6uk0itm898khaj2meeunl2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673283380996:android:6133652114c097d5a46251",
+        "android_client_info": {
+          "package_name": "com.example.jyotitextileadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673283380996-o7e2gaq2rpuhvvbsjncmilgojnlf2079.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jyotitextileadmin",
+            "certificate_hash": "f6e10354c8bffe65ea7af4b3959f78f0ee9ee75a"
+          }
+        },
+        {
+          "client_id": "673283380996-40ri87eaa6uk0itm898khaj2meeunl2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfxkUSgyiRPkrRgrx7H-uZ8Ud5GymOP88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673283380996-40ri87eaa6uk0itm898khaj2meeunl2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
